@@ -1,0 +1,1 @@
+﻿run_id,date,board,sensor,firmware,profile,width,height,row_bin,col_bin,r0x03,r0x04,r0x05,r0x06,r0x0d,r0x0b,xclk_mhz,pclk_mhz,expected_fps,fv_fps,dma_fps,app_fps,dropped_frames,crc_errors,line_errors,cpu_pct,psram_free_kb,supply_v,current_ma,temp_c,duration_s,notes
